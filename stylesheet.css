@@ -1,6 +1,4 @@
-#content {
-  color: red;
-}
+#content { background-color: #000; padding-top: 1px; }  
 
 span.post-meta {
   display: none !important;
