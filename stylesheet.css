@@ -1,3 +1,7 @@
+div#content {
+  color: red;
+}
+
 span.post-meta {
   display: none !important;
 }
